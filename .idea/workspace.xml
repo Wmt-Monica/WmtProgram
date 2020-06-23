@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57c5546f-f807-4f80-b31e-06c0921b4540" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cr1MvmiQijMD9a1nHteWiIgi1E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Swing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.A">
+    <configuration name="A" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="测试.A" />
+      <module name="Wmtjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="测试.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractButtonTestOne" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing.AbstractButtonTestOne" />
+      <module name="Wmtjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActionEventTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing.ActionEventTest" />
+      <module name="Wmtjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDialog1" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing.JDialog1" />
+      <module name="Wmtjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JListTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Swing.JListTest" />
+      <module name="Wmtjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.A" />
+        <item itemvalue="应用程序.JDialog1" />
+        <item itemvalue="应用程序.JListTest" />
+        <item itemvalue="应用程序.ActionEventTest" />
+        <item itemvalue="应用程序.AbstractButtonTestOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57c5546f-f807-4f80-b31e-06c0921b4540" name="默认的" comment="" />
+      <created>1591271853475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591271853475</updated>
+      <workItem from="1591271856037" duration="6600000" />
+      <workItem from="1591316962175" duration="5983000" />
+      <workItem from="1591336089112" duration="12185000" />
+      <workItem from="1591666013481" duration="7045000" />
+      <workItem from="1591714621865" duration="2257000" />
+      <workItem from="1591744923160" duration="17806000" />
+      <workItem from="1591922892506" duration="2664000" />
+      <workItem from="1591944278100" duration="1785000" />
+      <workItem from="1591946962160" duration="1271000" />
+      <workItem from="1592114716313" duration="2393000" />
+      <workItem from="1592273545657" duration="27000" />
+      <workItem from="1592273737851" duration="1150000" />
+      <workItem from="1592275110477" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Notifications" timestamp="1592275133224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1592275133224" />
+    <state x="654" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1591748811208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1591748811208" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1592274675458">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592274675458" />
+    <state width="1493" height="331" key="GridCell.Tab.0.bottom" timestamp="1592138982546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592138982546" />
+    <state width="1493" height="331" key="GridCell.Tab.0.center" timestamp="1592138982544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592138982544" />
+    <state width="1493" height="331" key="GridCell.Tab.0.left" timestamp="1592138982542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592138982542" />
+    <state width="1493" height="331" key="GridCell.Tab.0.right" timestamp="1592138982545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="331" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592138982545" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1591281639350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591281639350" />
+    <state x="1080" y="230" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591349072977">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1080" y="230" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1591349072977" />
+    <state x="401" y="145" width="734" height="534" key="find.popup" timestamp="1591336934799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="145" width="734" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1591336934799" />
+    <state x="511" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1591945531970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1591945531970" />
+    <state x="297" y="145" width="940" height="678" key="search.everywhere.popup" timestamp="1591752435905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="297" y="145" width="940" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591752435905" />
+  </component>
+</project>

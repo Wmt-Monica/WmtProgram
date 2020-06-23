@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="包装类/|测试/|抽象类/|对象/|多态/|反射/|方法/|集合类/|继承/|接口/|类/|内部类/|数组/|随机数/|网络通信/|线程/|异常/|IO流/|String/|Swing/|Wife_Wmt/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/包装类"/>
+	<classpathentry kind="src" path="src/测试"/>
+	<classpathentry kind="src" path="src/抽象类"/>
+	<classpathentry kind="src" path="src/对象"/>
+	<classpathentry kind="src" path="src/多态"/>
+	<classpathentry kind="src" path="src/反射"/>
+	<classpathentry kind="src" path="src/方法"/>
+	<classpathentry kind="src" path="src/集合类"/>
+	<classpathentry kind="src" path="src/继承"/>
+	<classpathentry kind="src" path="src/接口"/>
+	<classpathentry kind="src" path="src/类"/>
+	<classpathentry kind="src" path="src/内部类"/>
+	<classpathentry kind="src" path="src/数组"/>
+	<classpathentry kind="src" path="src/随机数"/>
+	<classpathentry kind="src" path="src/网络通信"/>
+	<classpathentry kind="src" path="src/线程"/>
+	<classpathentry kind="src" path="src/异常"/>
+	<classpathentry kind="src" path="src/IO流"/>
+	<classpathentry kind="src" path="src/String"/>
+	<classpathentry kind="src" path="src/Swing"/>
+	<classpathentry kind="src" path="src/Wife_Wmt"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
